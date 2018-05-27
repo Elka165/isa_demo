@@ -1,5 +1,0 @@
-Pierwsza linijka
-
-kolejna linijka
-
-Drugi commit - sprawdźmy co się stanie
