@@ -2,6 +2,4 @@ Pierwsza linijka
 
 kolejna linijka
 
-Drugi commit ciekawe co się stanie
-
-co się teraz stanie
+Drugi commit - sprawdźmy co się stanie
